@@ -25,7 +25,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="41" alt="c logo"  />
   <img width="81" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="41" alt="cplusplus logo"  />
-  <img width="81" />
 </div>
 
 ###
