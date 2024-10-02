@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">My name is Artyom Svetlichnyy, and I am a beginner programmer.</h4>
+<h4 align="center">My name is Artyom Svetlichnyy, a Software Engineering student.</h4>
 
 ###
 
@@ -16,9 +16,11 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="python logo"  />
+  <img width="81" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="41" alt="csharp logo"  />
   <img width="81" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/python-original.svg" height="41" alt="c logo"  />
   <img width="81" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="41" alt="cplusplus logo"  />
 </div>
