@@ -1,8 +1,8 @@
-<h2 align="center">Welcome to my GitHub!</h2>
+<h2 align="center">Artyom Svetlichnyy</h2>
 
 ###
 
-<h4 align="center">My name is Artyom Svetlichnyy, a Software Engineering student.</h4>
+<h4 align="center">Software Engineering student.</h4>
 
 ###
 
