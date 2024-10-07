@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Software Engineering student.</h4>
+<h4 align="center">Software Engineering Student.</h4>
 
 ###
 
