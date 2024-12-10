@@ -6,13 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Art2om&theme=dracula" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=Art2om&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
