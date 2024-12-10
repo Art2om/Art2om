@@ -23,6 +23,20 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="41" alt="android logo"  />
+  <img width="81" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="41" alt="mysql logo"  />
+  <img width="81" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="41" alt="bash logo"  />
+  <img width="81" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="41" alt="vscode logo"  />
+  <img width="81" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="41" alt="docker logo"  />
+</div>
+
+###
+
+<div align="center">
   <img height="210" src="https://wallpapercave.com/wp/wp2990517.jpg"  />
 </div>
 
