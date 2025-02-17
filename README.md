@@ -6,38 +6,26 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="python logo"  />
-  <img width="81" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="cplusplus logo"  />
-  <img width="81" />
-  <img src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" height="41" alt="Arch logo"  />
-  <img width="81" />
-  <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="41" alt="c logo"  />
-  <img width="81" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="41" alt="csharp logo"  />
-</div>
-
+```plaintext
+             __                       Artyom@Arch
+         _=(SDGJT=_                   -----------
+       _GTDJHGGFCVS)                  OS: Arch Linux x86_64
+      ,GTDJGGDTDFBGX0                 Kernel: -
+     JDJDIJHRORVFSBSVL-=+=,_          Uptime: -
+    IJFDUFHJNXIXCDXDSV,  "DEBL        Packages: -
+   [LKDSDJTDU=OUSCSBFLD.   '?ZWX,     Shell: -
+  ,LMDSDSWH'     `DCBOSI     DRDS],   Resolution: -
+  SDDFDFH'         !YEWD,   )HDROD    DE: -
+ !KMDOCG            &GSU|\_GFHRGO\'   Theme: -
+ HKLSGP'           __\TKM0\GHRBV)'    Icons: -
+JSNRVW'       __+MNAEC\IOI,\BN'       Terminal: -
+HELK['    __,=OFFXCBGHC\FD)           CPU: -
+?KGHE \_-#DASDFLSV='    'EF           GPU: -
+'EHTI                    !H           Memory: -
+ `0F'                    '!
+```
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="41" alt="android logo"  />
-  <img width="81" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="41" alt="mysql logo"  />
-  <img width="81" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="41" alt="bash logo"  />
-  <img width="81" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="41" alt="vscode logo"  />
-  <img width="81" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="41" alt="docker logo"  />
+  <img height="210" src="https://wallpapercave.com/wp/wp2990517.jpg" />
 </div>
-
-###
-
-<div align="center">
-  <img height="210" src="https://wallpapercave.com/wp/wp2990517.jpg"  />
-</div>
-
-###
