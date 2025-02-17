@@ -1,8 +1,8 @@
-<h2 align="center">Artyom Svetlichnyy</h2>
+<h2 align="left">Artyom Svetlichnyy</h2>
 
 ###
 
-<h4 align="center">Goofiest Software Engineering Student.</h4>
+<h4 align="left">Goofiest Software Engineering Student at my University.</h4>
 
 ###
 
