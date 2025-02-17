@@ -25,7 +25,3 @@ HELK['    __,=OFFXCBGHC\FD)
  `0F'                    '!
 ```
 ###
-
-<div align="center">
-  <img height="210" src="https://wallpapercave.com/wp/wp2990517.jpg" />
-</div>
