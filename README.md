@@ -10,18 +10,18 @@
              __                       Artyom@Arch
          _=(SDGJT=_                   -----------
        _GTDJHGGFCVS)                  OS: Arch Linux x86_64
-      ,GTDJGGDTDFBGX0                 Kernel: -
-     JDJDIJHRORVFSBSVL-=+=,_          Uptime: -
-    IJFDUFHJNXIXCDXDSV,  "DEBL        Packages: -
-   [LKDSDJTDU=OUSCSBFLD.   '?ZWX,     Shell: -
-  ,LMDSDSWH'     `DCBOSI     DRDS],   Resolution: -
-  SDDFDFH'         !YEWD,   )HDROD    DE: -
- !KMDOCG            &GSU|\_GFHRGO\'   Theme: -
- HKLSGP'           __\TKM0\GHRBV)'    Icons: -
-JSNRVW'       __+MNAEC\IOI,\BN'       Terminal: -
-HELK['    __,=OFFXCBGHC\FD)           CPU: -
-?KGHE \_-#DASDFLSV='    'EF           GPU: -
-'EHTI                    !H           Memory: -
+      ,GTDJGGDTDFBGX0                 Kernel: Brain
+     JDJDIJHRORVFSBSVL-=+=,_          Uptime: 17 Years
+    IJFDUFHJNXIXCDXDSV,  "DEBL        Engineering: Software
+   [LKDSDJTDU=OUSCSBFLD.   '?ZWX,     Languages: Python / C / Java
+  ,LMDSDSWH'     `DCBOSI     DRDS],   Shell: Human body (not digital yet.)
+  SDDFDFH'         !YEWD,   )HDROD    Hobbies: Working with hardware.
+ !KMDOCG            &GSU|\_GFHRGO\'   
+ HKLSGP'           __\TKM0\GHRBV)'    
+JSNRVW'       __+MNAEC\IOI,\BN'      
+HELK['    __,=OFFXCBGHC\FD)           
+?KGHE \_-#DASDFLSV='    'EF           
+'EHTI                    !H           
  `0F'                    '!
 ```
 ###
