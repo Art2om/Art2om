@@ -2,10 +2,6 @@
 
 ###
 
-<h4 align="left">Goofiest Software Engineering Student at my University.</h4>
-
-###
-
 ```plaintext
              __                       Artyom@Arch
          _=(SDGJT=_                   -----------
