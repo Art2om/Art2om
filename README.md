@@ -5,7 +5,7 @@
 ```plaintext
              __                       Artyom@Arch
          _=(SDGJT=_                   -----------
-       _GTDJHGGFCVS)                  OS: Arch Linux x86_64
+       _GTDJHGGFCVS)                  Personal OS: Arch Linux x86_64
       ,GTDJGGDTDFBGX0                 Kernel: Brain
      JDJDIJHRORVFSBSVL-=+=,_          Uptime: 17 Years
     IJFDUFHJNXIXCDXDSV,  "DEBL        Engineering: Software
